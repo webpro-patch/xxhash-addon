@@ -9,6 +9,7 @@
     "test": "jest"
   },
   "files": [
+    "/build*",
     "/deps/xxHash/xxhash.h",
     "/deps/xxHash/xxh3.h",
     "/deps/xxHash/LICENSE",
